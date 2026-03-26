@@ -5,14 +5,13 @@ EX NO:3-d) Search element in an array.
 
 
 
-Date:19/10/2025 
+Date:26.03.2026
 
 
-Name: VASANTH S 
+Name: HARI PRASATH M
 
 
-Ref no: 25017538
-
+Ref no: 25018172
 AIM:
 To write a C program to get an array and a element as input and search the element in that array.
 
